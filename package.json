@@ -1,0 +1,30 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hazem-GitHub/ReactJS-personal-projects.git"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    "JSX",
+    "ES6",
+    "Modules"
+  ],
+  "author": "Hazem Tantawy <hazem.ece@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hazem-GitHub/ReactJS-personal-projects/issues"
+  },
+  "homepage": "https://github.com/Hazem-GitHub/ReactJS-personal-projects#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
